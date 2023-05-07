@@ -564,7 +564,7 @@ header nav .menu ul a li:hover {
 
 .service-item .item .service-detail p {
   line-height: 20px;
-  font-size: 14px;
+  font-size: 15px;
   text-align: left;
 }
 
@@ -623,6 +623,8 @@ header nav .menu ul a li:hover {
 
 .project-1 p {
   margin: 10px 0;
+  font-size: 15px;
+  line-height: 20px;
 }
 
 .project-1 .project-btn {
